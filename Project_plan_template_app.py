@@ -1,7 +1,7 @@
 import openai
 import streamlit as st
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 template = ["Project implementation plan", "Upgrade Plan", "Deployment plan", "Cutover plan", "Test Plan"]
 
